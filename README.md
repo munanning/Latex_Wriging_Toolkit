@@ -1,2 +1,2 @@
 # Latex_Wriging_Toolkit
-Latex samples for reusing
+This repositories contains samples for quickstart in Latex writings.
